@@ -1,9 +1,13 @@
 .box {
-  height:500px;
+  margin-top: -20px;
+  height:100vh;
   background-color: lightgrey;
 }
 
 
 .dayLight{
+  margin-top: -20px;
   background-color: yellow;
+  height:100vh;
 }
+
